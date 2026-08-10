@@ -1,6 +1,6 @@
 # AWS CodeConnections .github Repository
 
-This repository contains the GitHub community health and contribution metadata for the AWS CodeConnections project and organization.
+This repository is owned by @MIahamed05 and contains the GitHub community health and contribution metadata for the AWS CodeConnections project and organization.
 
 ## What this repository is for
 

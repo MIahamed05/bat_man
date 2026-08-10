@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to AWS CodeConnections. We welcome feedback, bug reports, feature suggestions, and improvements from the community.
+Thank you for your interest in contributing to AWS CodeConnections. This fork is maintained by @MIahamed05, and we welcome feedback, bug reports, feature suggestions, and improvements from the community.
 
 Please review this guide before opening an issue or submitting a pull request so we can respond quickly and keep the process consistent.
 
