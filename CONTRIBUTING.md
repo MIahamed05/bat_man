@@ -1,59 +1,53 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional
-documentation, we greatly value feedback and contributions from our community.
+Thank you for your interest in contributing to AWS CodeConnections. We welcome feedback, bug reports, feature suggestions, and improvements from the community.
 
-Please read through this document before submitting any issues or pull requests to ensure we have all the necessary
-information to effectively respond to your bug report or contribution.
-
+Please review this guide before opening an issue or submitting a pull request so we can respond quickly and keep the process consistent.
 
 ## Security issue notifications
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public GitHub issue.
 
+If you discover a potential security issue, please report it privately through the AWS vulnerability reporting process rather than opening a public issue. See [SECURITY.md](SECURITY.md) for full instructions.
 
-## Reporting Bugs/Feature Requests
+## Reporting bugs or requesting features
 
-We welcome you to use the GitHub issue tracker to report bugs or suggest features.
+We welcome issue reports and enhancement requests through GitHub.
 
-When filing an issue, please check existing open, or recently closed, issues to make sure somebody else hasn't already
-reported the issue. Please try to include as much information as you can. Details like these are incredibly useful:
+Before opening a new issue, please:
 
-* A reproducible test case or series of steps
-* The version of our code being used
-* Any modifications you've made relevant to the bug
-* Anything unusual about your environment or deployment
+- check whether a similar issue already exists
+- include clear reproduction steps or context
+- provide affected version or environment details
+- describe expected vs. actual behavior
+- include logs, screenshots, or examples when helpful
 
+## Contributing via pull requests
 
-## Contributing via Pull Requests
-Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure that:
+Contributions via pull requests are appreciated. Before submitting a pull request, please ensure that:
 
-1. You are working against the latest source on the *main* branch.
-2. You check existing open, and recently merged, pull requests to make sure someone else hasn't addressed the problem already.
-3. You open an issue to discuss any significant work - we would hate for your time to be wasted.
+1. You are working from the latest available code.
+2. You have checked for existing work that may already address the issue.
+3. You have opened or referenced the relevant issue when needed.
+4. Your change is focused and does not include unrelated formatting or refactoring.
+5. Relevant local validation or tests pass.
 
-To send us a pull request, please:
+To submit a pull request:
 
-1. Fork the repository.
-2. Modify the source; please focus on the specific change you are contributing. If you also reformat all the code, it will be hard for us to focus on your change.
-3. Ensure local tests pass.
-4. Commit to your fork using clear commit messages.
-5. Send us a pull request, answering any default questions in the pull request interface.
-6. Pay attention to any automated CI failures reported in the pull request, and stay involved in the conversation.
+1. Fork the repository or use the appropriate working branch.
+2. Make the change with a clear, targeted scope.
+3. Commit with clear, descriptive messages.
+4. Open a pull request using the repository template.
+5. Address any feedback and monitor for CI or review comments.
 
-GitHub provides additional document on [forking a repository](https://help.github.com/articles/fork-a-repo/) and
-[creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
+GitHub has helpful documentation for [forking repositories](https://help.github.com/articles/fork-a-repo/) and [creating pull requests](https://help.github.com/articles/creating-a-pull-request/).
 
+## Finding work to contribute
 
-## Finding contributions to work on
-Looking at the existing issues is a great way to find something to contribute on. As our projects, by default, use the default GitHub issue labels (enhancement/bug/duplicate/help wanted/invalid/question/wontfix), looking at any 'help wanted' issues is a great place to start.
+A good place to start is by reviewing open issues and looking for labels such as help wanted, enhancement, or bug. Community contributions are especially welcome when they improve reliability, documentation, or developer experience.
 
+## Code of conduct
 
-## Code of Conduct
-This project has adopted the [Amazon Open Source Code of Conduct](https://aws.github.io/code-of-conduct).
-For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq) or contact
-opensource-codeofconduct@amazon.com with any additional questions or comments.
-
+This project follows the [Amazon Open Source Code of Conduct](https://aws.github.io/code-of-conduct). See the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq) for more information or contact opensource-codeofconduct@amazon.com with questions.
 
 ## Licensing
 
-See the LICENSE file for our project's licensing. We will ask you to confirm the licensing of your contribution.
+Please ensure all contributions are compatible with the repository's licensing terms. We may ask contributors to confirm licensing status as part of the review process.
